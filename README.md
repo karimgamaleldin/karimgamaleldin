@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 Hi, I’m Karim Gamaleldin<br>🔭 I’m a 3rd year Computer Engineering Student @GUC<br>🌱 I’m interested in Machine Learning , Data Science and Web Development<br>
+🤝 Hi, I’m Karim Gamaleldin<br>🔭 I’m a 4th year Computer Engineering Student @GUC<br>🌱 I’m learning Machine Learning and Data Science<br>
 
 
 ## 🌐 Socials:
