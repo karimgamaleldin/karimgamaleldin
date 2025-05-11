@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karim Gamaleldin</h1>
 
-- 🔭 I’m a 4th year Computer Engineering Student @GUC
-
-- 🌱 I’m currently learning **Machine Learning & Data Science**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://img.shields.io/badge/linkedin-%230077b5.svg?logo=linkedin&logocolor=white)](https://www.linkedin.com/in/karim-gamaleldin-baa9791b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://img.shields.io/badge/linkedin-%230077b5.svg?logo=linkedin&logocolor=white)](https://www.linkedin.com/in/karim-gamaleldin-baa9791b5/" height="30" width="40" /></a>
